@@ -9,3 +9,6 @@ Projects - There is a detailed listing of Projects which I made and you have Liv
 Blogs - There is detailed listing of Blogs under this section.
 
 Apart from these, there is 'About' and 'Technology' buttons in nav bar for direct access.
+
+## Link to access my Portfolio.
+ "[Arushi Jain's Portfolio](https://arushijain-myportfolio.netlify.app/)"
